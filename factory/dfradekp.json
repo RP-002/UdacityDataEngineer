@@ -1,0 +1,9 @@
+{
+	"name": "dfradekp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d33591de-d905-49cc-88de-fc545667bd70",
+		"tenantId": "18d6ae7f-2fd9-4197-8325-df908812f5c2"
+	}
+}
